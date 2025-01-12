@@ -1,0 +1,5 @@
+com/crm/qa/testcases/ForgotPasswordPageTest.class
+com/crm/qa/testcases/LoginPageTest.class
+com/crm/qa/testcases/PIMPageTest.class
+com/crm/qa/testcases/DashboardPageTest.class
+com/crm/qa/testcases/AdminPageTest.class
